@@ -1,6 +1,3 @@
-# JustRandomRepo
-JustRandomRepo for git branch
-
 # Below is a brief and easy-to-understand guide on how to use GitHub:
 
 1. **Creating a GitHub Account**:
